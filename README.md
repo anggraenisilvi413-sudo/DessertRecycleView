@@ -21,6 +21,7 @@ Aplikasi ini adalah contoh dasar bagaimana cara mengimplementasikan dan menampil
 🚀 Cara Menjalankan Proyek
 
 Clone repository ini ke komputer lokal Anda:
+
 git clone https://github.com/anggraenisilvi413-sudo/DessertRecycleView.git
 
 Buka Android Studio.
